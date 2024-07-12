@@ -1,0 +1,42 @@
+{
+    "paginaHome": {
+      "nombre": "Herramientas y Soluciones",
+      "informacionGeneral": {
+        "direccion": "Calle Falsa 123, Ciudad, País",
+        "telefono": "+1234567890",
+        "correoElectronico": "contacto@herramientasysoluciones.com",
+        "redesSociales": {
+          "facebook": "https://www.facebook.com/herramientasysoluciones",
+          "twitter": "https://www.twitter.com/herrsoluciones",
+          "instagram": "https://www.instagram.com/herramientasysoluciones"
+        }
+      },
+      "proveedoresActuales": [
+        {
+          "nombre": "Proveedor A",
+          "contacto": "proveedorA@example.com",
+          "telefono": "+9876543210",
+          "direccion": "Avenida Siempre Viva 456, Ciudad, País"
+        },
+        {
+          "nombre": "Proveedor B",
+          "contacto": "proveedorB@example.com",
+          "telefono": "+1230987654",
+          "direccion": "Calle Principal 789, Ciudad, País"
+        }
+      ],
+      "promocionesActuales": [
+        {
+          "descripcion": "20% de descuento en herramientas eléctricas",
+          "fechaInicio": "2024-06-01",
+          "fechaFin": "2024-06-30"
+        },
+        {
+          "descripcion": "Compra 3 y paga 2 en clavos y tornillos",
+          "fechaInicio": "2024-06-15",
+          "fechaFin": "2024-07-15"
+        }
+      ]
+    }
+  }
+  

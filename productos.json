@@ -1,0 +1,165 @@
+{
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Martillo de Uña",
+        "categoria": "Herramientas Manuales",
+        "precio": 15.00,
+        "descripcion": "Martillo de uña de acero, ideal para trabajos de carpintería.",
+        "stock": 100
+      },
+      {
+        "id": 2,
+        "nombre": "Taladro Inalámbrico",
+        "categoria": "Herramientas Eléctricas",
+        "precio": 120.00,
+        "descripcion": "Taladro inalámbrico con batería de litio, 18V.",
+        "stock": 50
+      },
+      {
+        "id": 3,
+        "nombre": "Sierra Circular",
+        "categoria": "Herramientas Eléctricas",
+        "precio": 75.00,
+        "descripcion": "Sierra circular de 7-1/4 pulgadas, 1500W.",
+        "stock": 30
+      },
+      {
+        "id": 4,
+        "nombre": "Destornillador de Precisión",
+        "categoria": "Herramientas Manuales",
+        "precio": 8.00,
+        "descripcion": "Set de destornilladores de precisión para electrónica.",
+        "stock": 200
+      },
+      {
+        "id": 5,
+        "nombre": "Alicates Universales",
+        "categoria": "Herramientas Manuales",
+        "precio": 10.00,
+        "descripcion": "Alicates universales de acero forjado.",
+        "stock": 150
+      },
+      {
+        "id": 6,
+        "nombre": "Lijadora Orbital",
+        "categoria": "Herramientas Eléctricas",
+        "precio": 65.00,
+        "descripcion": "Lijadora orbital de 5 pulgadas, 200W.",
+        "stock": 40
+      },
+      {
+        "id": 7,
+        "nombre": "Cinta Métrica",
+        "categoria": "Accesorios",
+        "precio": 5.00,
+        "descripcion": "Cinta métrica de 5 metros con freno automático.",
+        "stock": 300
+      },
+      {
+        "id": 8,
+        "nombre": "Llave Inglesa",
+        "categoria": "Herramientas Manuales",
+        "precio": 12.00,
+        "descripcion": "Llave inglesa ajustable de 10 pulgadas.",
+        "stock": 120
+      },
+      {
+        "id": 9,
+        "nombre": "Cortadora de Césped",
+        "categoria": "Herramientas de Jardinería",
+        "precio": 200.00,
+        "descripcion": "Cortadora de césped eléctrica, 1500W.",
+        "stock": 25
+      },
+      {
+        "id": 10,
+        "nombre": "Rastrillo de Jardín",
+        "categoria": "Herramientas de Jardinería",
+        "precio": 15.00,
+        "descripcion": "Rastrillo de jardín de acero, mango de madera.",
+        "stock": 80
+      },
+      {
+        "id": 11,
+        "nombre": "Pintura Acrílica Blanca",
+        "categoria": "Pinturas y Revestimientos",
+        "precio": 25.00,
+        "descripcion": "Pintura acrílica blanca, 4 litros.",
+        "stock": 60
+      },
+      {
+        "id": 12,
+        "nombre": "Brocha para Pintar",
+        "categoria": "Accesorios",
+        "precio": 3.00,
+        "descripcion": "Brocha de 2 pulgadas para pintura.",
+        "stock": 250
+      },
+      {
+        "id": 13,
+        "nombre": "Tornillos para Madera",
+        "categoria": "Accesorios",
+        "precio": 7.00,
+        "descripcion": "Caja de tornillos para madera, 100 piezas.",
+        "stock": 500
+      },
+      {
+        "id": 14,
+        "nombre": "Clavos para Concreto",
+        "categoria": "Accesorios",
+        "precio": 10.00,
+        "descripcion": "Caja de clavos para concreto, 50 piezas.",
+        "stock": 400
+      },
+      {
+        "id": 15,
+        "nombre": "Sierra de Calar",
+        "categoria": "Herramientas Eléctricas",
+        "precio": 85.00,
+        "descripcion": "Sierra de calar eléctrica, 600W.",
+        "stock": 35
+      },
+      {
+        "id": 16,
+        "nombre": "Destornillador Eléctrico",
+        "categoria": "Herramientas Eléctricas",
+        "precio": 40.00,
+        "descripcion": "Destornillador eléctrico recargable, 3.6V.",
+        "stock": 70
+      },
+      {
+        "id": 17,
+        "nombre": "Guantes de Trabajo",
+        "categoria": "Accesorios",
+        "precio": 5.00,
+        "descripcion": "Par de guantes de trabajo de cuero.",
+        "stock": 150
+      },
+      {
+        "id": 18,
+        "nombre": "Escalera de Aluminio",
+        "categoria": "Herramientas Manuales",
+        "precio": 50.00,
+        "descripcion": "Escalera de aluminio de 6 pies.",
+        "stock": 20
+      },
+      {
+        "id": 19,
+        "nombre": "Compresor de Aire",
+        "categoria": "Herramientas Eléctricas",
+        "precio": 150.00,
+        "descripcion": "Compresor de aire portátil, 2 HP.",
+        "stock": 10
+      },
+      {
+        "id": 20,
+        "nombre": "Cortadora de Azulejos",
+        "categoria": "Herramientas Eléctricas",
+        "precio": 95.00,
+        "descripcion": "Cortadora de azulejos eléctrica, 800W.",
+        "stock": 15
+      }
+    ]
+  }
+  
